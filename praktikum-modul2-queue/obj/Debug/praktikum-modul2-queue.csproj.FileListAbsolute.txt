@@ -1,0 +1,6 @@
+C:\Users\Husni Mubarok\Documents\SharpDevelop Projects\praktikum-modul2-queue\praktikum-modul2-queue\obj\Debug\praktikum-modul2-queue.csprojResolveAssemblyReference.cache
+C:\Users\Husni Mubarok\Documents\SharpDevelop Projects\praktikum-modul2-queue\praktikum-modul2-queue\bin\Debug\praktikum-modul2-queue.exe.config
+C:\Users\Husni Mubarok\Documents\SharpDevelop Projects\praktikum-modul2-queue\praktikum-modul2-queue\bin\Debug\praktikum-modul2-queue.exe
+C:\Users\Husni Mubarok\Documents\SharpDevelop Projects\praktikum-modul2-queue\praktikum-modul2-queue\bin\Debug\praktikum-modul2-queue.pdb
+C:\Users\Husni Mubarok\Documents\SharpDevelop Projects\praktikum-modul2-queue\praktikum-modul2-queue\obj\Debug\praktikum-modul2-queue.exe
+C:\Users\Husni Mubarok\Documents\SharpDevelop Projects\praktikum-modul2-queue\praktikum-modul2-queue\obj\Debug\praktikum-modul2-queue.pdb
