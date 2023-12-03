@@ -149,11 +149,11 @@ namespace praktikum_modul2_queue
 	                }
 	                break;
 	            default:
-	                    Console.WriteLine("Pilihan tidak valid.");
-	                    Console.Write("Press any key to continue . . . ");
-	                    Console.ReadKey(true);
-	                    Console.Clear();
-	                    break;
+	                Console.WriteLine("Pilihan tidak valid.");
+	                Console.Write("Press any key to continue . . . ");
+	                Console.ReadKey(true);
+	                Console.Clear();
+	                break;
 	        }
 	    }
 	}
