@@ -90,7 +90,7 @@ namespace praktikum_modul2_queue
         // Return the number of elements in the queue
         public int Size()
         {
-            int size = 0;
+            int size = -1;
             QueueNode current = Front;
 
             // Traverse linked list dan hitung jumlah node
